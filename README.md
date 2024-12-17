@@ -1,4 +1,4 @@
 # MiniScanner
 
 ```
-git clone https://github.com/YaokaiYang-assaultmaster/PythonPortScanner.git
+git clone https://github.com/fRennnn/MiniScanner.git
